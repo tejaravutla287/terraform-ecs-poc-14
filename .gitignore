@@ -1,0 +1,15 @@
+# Log files
+*.log
+npm-debug.log*
+
+# OS patterns
+.DS_Store
+Thumbs.db
+
+# Node patterns
+node_modules/
+dist/
+
+# Local IDEs
+.idea/
+.vscode/
