@@ -1,0 +1,13 @@
+{
+  "name": "ecs-aurora-poc-app",
+  "version": "1.0.0",
+  "description": "POC web application for ECS and Aurora DB connection verification",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
